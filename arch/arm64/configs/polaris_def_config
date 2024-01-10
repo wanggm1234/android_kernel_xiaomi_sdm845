@@ -670,9 +670,7 @@ CONFIG_MACH_XIAOMI_D5X=y
 #
 CONFIG_CRYPTO_LZ4=y
 CONFIG_CRYPTO_LZ4HC=y
-
 # Kernel image compression options
-#
 CONFIG_KERNEL_GZIP=y
 # CONFIG_KERNEL_BZIP2 is not set
 # CONFIG_KERNEL_LZMA is not set
